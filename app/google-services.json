@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749578737581",
+    "firebase_url": "https://hai-la-meci.firebaseio.com",
+    "project_id": "hai-la-meci",
+    "storage_bucket": "hai-la-meci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749578737581:android:5899a88f00fca58a9cf324",
+        "android_client_info": {
+          "package_name": "com.example.hailameci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749578737581-hug4apj3pajr6ij3hpp7msi9a97kn2g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hailameci",
+            "certificate_hash": "7dd358d5aed4ae888447c054a09825c8b479d26d"
+          }
+        },
+        {
+          "client_id": "749578737581-c0nnn3vpful4g0f3fjoq8aga09hvh2oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAee4RlfChFfhYF7GSrjQV3qwjelTwI67A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749578737581-c0nnn3vpful4g0f3fjoq8aga09hvh2oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

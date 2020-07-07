@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name" translatable="false">Hai la meci!</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="upcoming_matches">Următoarele meciuri</string>
+    <string name="results">Rezultate</string>
+    <string name="league_table">Clasament liga 1</string>
+    <string name="plans">Planificări</string>
+
+    <string name="preferences">Preferințe</string>
+    <string name="change_profile_pic">Schimbă poza de profil</string>
+    <string name="choose_language">Selectează limba</string>
+
+    <string name="games_played">M</string>
+    <string name="victories">V</string>
+    <string name="draws">E</string>
+    <string name="losses">Î</string>
+    <string name="goal_difference">G</string>
+    <string name="points">P</string>
+
+    <string name="home">Acasă</string>
+    <string name="away">Deplasare</string>
+    <string name="price_of_ticket">Prețul unui bilet</string>
+    <string name="number_of_tickets">Număr de bilete</string>
+    <string name="place_to_stay">Locație cazare</string>
+    <string name="arrival_date">Dată de sosire</string>
+    <string name="leave_date">Dată de plecare</string>
+    <string name="price_total">Preț total</string>
+    <string name="select_date">Selectează data</string>
+    <string name="save">Salvează</string>
+
+    <string name="home_match">Meci acasă</string>
+    <string name="away_match">Meci în deplasare</string>
+
+    <string name="please_provide_arriving_leaving_place_to_stay">Vă rugăm specificați datele deplasării și un loc de cazare.</string>
+    <string name="please_provide_price_of_ticket">Vă rugăm specificați prețul biletului.</string>
+    <string name="please_provide_number_of_tickets">Vă rugăm specificați numărul biletelor.</string>
+
+    <string name="add_plan">Adaugă un plan</string>
+    <string name="edit_plan">Modifică planul</string>
+    <string name="plan_saved">Planul a fost salvat</string>
+    <string name="plan_not_saved">Planul nu a fost salvat</string>
+    <string name="plan_deleted">Planul a fost șters</string>
+    <string name="plan_cant_be_updated">Planul nu poate fi actualizat</string>
+    <string name="plan_updated">Planul a fost actualizat</string>
+    <string name="plan_not_updated">Planul nu a fost actualizat</string>
+
+
+    <string name="astra" translatable="false">Astra Giurgiu</string>
+    <string name="astra_stadium" translatable="false">Stadionul Marin Anastasovici, Giurgiu, România</string>
+
+    <string name="botosani" translatable="false">FC Botoșani</string>
+    <string name="botosani_stadium" translatable="false">Stadionul Municipal Botoșani, Botoșani, România</string>
+
+    <string name="cfr" translatable="false">CFR Cluj</string>
+    <string name="cfr_stadium" translatable="false">Stadionul Dr. Constantin Rădulescu, Cluj-Napoca, România</string>
+
+    <string name="chindia" translatable="false">Chindia Târgoviște</string>
+    <string name="chindia_stadium" translatable="false">Stadionul Eugen Popescu, Târgoviște, România</string>
+
+    <string name="clinceni" translatable="false">Academica Clinceni</string>
+    <string name="clinceni_stadium" translatable="false">Stadionul Clinceni, Clinceni, România</string>
+
+    <string name="craiova" translatable="false">CS U Craiova</string>
+    <string name="craiova_stadium" translatable="false">Stadionul Ion Oblemenco, Craiova, România</string>
+
+    <string name="dinamo" translatable="false">Dinamo</string>
+    <string name="dinamo_stadium" translatable="false">Stadionul Dinamo, București, România</string>
+
+    <string name="fcsb" translatable="false">FCSB</string>
+    <string name="fcsb_stadium" translatable="false">Arena Națională, București, România</string>
+
+    <string name="gazmetan" translatable="false">Gaz Metan Mediaș</string>
+    <string name="gazmetan_stadium" translatable="false">Stadionul Gaz Metan, Mediaș, România</string>
+
+    <string name="hermannstadt" translatable="false">Hermannstadt</string>
+    <string name="hermannstadt_stadium" translatable="false">Stadionul Municipal, Sibiu, România</string>
+
+    <string name="iasi" translatable="false">CSM Poli Iași</string>
+    <string name="iasi_stadium" translatable="false">Stadionul Emil Alexandrescu, Iași, România</string>
+
+    <string name="sepsi" translatable="false">Sepsi OSK</string>
+    <string name="sepsi_stadium" translatable="false">Stadionul Municipal, Sf Gheorghe, România</string>
+
+    <string name="viitorul" translatable="false">FC Viitorul</string>
+    <string name="viitorul_stadium" translatable="false">Stadionul Viitorul, Ovidiu, România</string>
+
+    <string name="voluntari" translatable="false">FC Voluntari</string>
+    <string name="voluntari_stadium" translatable="false">Stadionul Anghel Iordănescu, Voluntari, România</string>
+    <string name="log_out" translatable="false">Log out</string>
+
+
+</resources>

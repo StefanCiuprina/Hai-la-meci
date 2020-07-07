@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="4dp">
+
+
+        <ImageView
+            android:id="@+id/imageView_team"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="2dp" />
+
+        <TextView
+            android:id="@+id/textView_teamName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@+id/imageView_team"
+            android:text="Home team"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView_teamAway"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_toStartOf="@+id/imageView_teamAway"
+            android:text="Away team"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView_teamAway"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:padding="2dp" />
+
+        <TextView
+            android:id="@+id/textView_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView_team"
+            android:layout_marginStart="8dp"
+            android:paddingStart="5dp"
+            android:text="Date"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView_stadium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_date"
+            android:layout_marginStart="8dp"
+            android:paddingStart="5dp"
+            android:text="Stadium"
+            android:textSize="10sp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

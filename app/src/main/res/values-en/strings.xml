@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upcoming_matches">Upcoming matches</string>
+    <string name="results">Results</string>
+    <string name="league_table">League table</string>
+    <string name="plans">Plans</string>
+    <string name="preferences">Preferences</string>
+    <string name="change_profile_pic">Change profile picture</string>
+    <string name="choose_language">Choose language</string>
+    <string name="games_played">M</string>
+    <string name="victories">W</string>
+    <string name="draws">D</string>
+    <string name="losses">L</string>
+    <string name="goal_difference">G</string>
+    <string name="points">P</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+    <string name="price_of_ticket">Price of ticket</string>
+    <string name="number_of_tickets">Number of tickets</string>
+    <string name="place_to_stay">Place to stay</string>
+    <string name="arrival_date">Arrival date</string>
+    <string name="leave_date">Leave date</string>
+    <string name="price_total">Total price</string>
+    <string name="select_date">Select date</string>
+    <string name="save">Save</string>
+    <string name="home_match">Home match</string>
+    <string name="away_match">Away match</string>
+    <string name="please_provide_arriving_leaving_place_to_stay">Please provite the dates and the place to stay</string>
+    <string name="please_provide_price_of_ticket">Please provide the price of ticket</string>
+    <string name="please_provide_number_of_tickets">Please provide the number of tickets</string>
+    <string name="add_plan">Add plan</string>
+    <string name="edit_plan">Edit plan</string>
+    <string name="plan_saved">Plan saved</string>
+    <string name="plan_not_saved">Plan not saved</string>
+    <string name="plan_deleted">Plan deleted</string>
+    <string name="plan_cant_be_updated">Plan can\'t be updated</string>
+    <string name="plan_updated">Plan updated</string>
+    <string name="plan_not_updated">Plan not updated</string>
+</resources>

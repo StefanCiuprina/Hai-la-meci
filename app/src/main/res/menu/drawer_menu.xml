@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_upcoming_matches"
+            android:icon="@drawable/ic_upcoming_matches"
+            android:title="@string/upcoming_matches" />
+        <item
+            android:id="@+id/nav_results"
+            android:icon="@drawable/ic_results"
+            android:title="@string/results" />
+        <item
+            android:id="@+id/nav_league_table"
+            android:icon="@drawable/ic_league_table"
+            android:title="@string/league_table" />
+        <item
+            android:id="@+id/nav_plans"
+            android:icon="@drawable/ic_plans"
+            android:title="@string/plans" />
+    </group>
+
+    <item android:title="@string/preferences">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_pic"
+                android:title="@string/change_profile_pic" />
+            <item
+                android:id="@+id/nav_language"
+                android:icon="@drawable/ic_language"
+                android:title="@string/choose_language" />
+            <item
+                android:id="@+id/nav_log_out"
+                android:icon="@drawable/ic_log_out"
+                android:title="@string/log_out" />
+        </menu>
+    </item>
+
+</menu>
